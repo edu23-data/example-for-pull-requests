@@ -1,3 +1,1 @@
-one commit
-second line (one more commit)
-on main branch an extra commit for a conflict
+CONFLICTING CHANGE

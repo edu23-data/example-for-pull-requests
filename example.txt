@@ -1,2 +1,1 @@
-one commit
-second line (one more commit)
+CONFLICTING CHANGE
